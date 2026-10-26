@@ -1,0 +1,32 @@
+[
+  {
+    "recorded_at": "2026-10-09T09:00:00+02:00",
+    "source": "Facilities operating schedule",
+    "text": "Atlas office normally operates Monday to Friday, 08:00-18:00. Lighting and ventilation follow occupancy, with essential services left on overnight and at weekends. Out-of-hours building use requires a duty-manager booking."
+  },
+  {
+    "recorded_at": "2026-10-09T14:20:00+02:00",
+    "source": "Room calendar",
+    "text": "Tuesday 13 October: all-staff planning day booked in the main hall, 08:00-18:00. Catering and room setup requested."
+  },
+  {
+    "recorded_at": "2026-10-12T16:20:00+02:00",
+    "source": "Office manager email",
+    "text": "Tomorrow's planning day has moved to the conference centre across town. Everyone will attend there; the office will remain closed on Tuesday. Please release the main-hall booking and leave lighting and ventilation on their unoccupied settings. Essential services stay on."
+  },
+  {
+    "recorded_at": "2026-10-14T17:50:00+02:00",
+    "source": "Duty-manager handover",
+    "text": "Wednesday closing round: all staff have signed out. The building closes at 18:00 and reopens Thursday at 08:00. There are no evening or overnight bookings, contractor visits, or approved overrides on the duty board."
+  },
+  {
+    "recorded_at": "2026-10-15T15:30:00+02:00",
+    "source": "Electrical contractor work order",
+    "text": "Portable load-bank commissioning planned for Friday 16 October, 13:00-16:00. The dispatch group covers Atlas office and the detached workshop annex. These premises have separate utility meters. The equipment will be assigned to one premises after the morning access survey."
+  },
+  {
+    "recorded_at": "2026-10-16T16:02:00+02:00",
+    "source": "Contractor field report",
+    "text": "Load-bank run completed today, 13:00-16:00. Dispatch ticket: Atlas office / workshop annex. The site-address box on the engineer's worksheet is blank; the uploaded completion sheet does not identify which premises received the equipment."
+  }
+]
